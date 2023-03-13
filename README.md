@@ -1,71 +1,87 @@
-# Getting Started with Create React App
+# Passo 1: 
+configurar os estilos padões da Aplicação
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Passo 2:
+Configurar a estrutura de pastas do projeto
+SRC 
+    -assets
+    -pages
+     -- SigIn
+     -- SigUp
+    
+# Passo 3:
+configurando rotas
+   ```npm install react-router-dom```
+   
+Login, logout 
 
-## Available Scripts
 
-In the project directory, you can run:
+# Passo 4: 
+Autenticação
+configurar o Firebase e o storage
+``` npm install firebase```
+e deixa pronto a configuração de  inicialização e export
 
-### `npm start`
+# Passo 5:
+cria o context API
+vai englobar o RoutesApp
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Passo 6:
+cadastro de Usuário, com o context
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Passo 7:
+Fazer login do Usuário, também vai ser no Context
 
-### `npm test`
+# Passo 8:
+Não deixar acessar rotas privadas 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Passo 9:
+Logout
 
-### `npm run build`
+# Passo 10:
+componente de header, criar ou usar biblioteca
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Passo 11:
+Trabalhao nos componentes que formam o Header, com o direcionamento de links e rotas privadas, e recebendo children
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Passo 12:
+Estilizando e configurando o profile
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Passo :
 
-### `npm run eject`
+# Passo :
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Passo :
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Passo :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Passo :
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Passo :
 
-## Learn More
+# Passo :
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Passo :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Passo :
 
-### Code Splitting
+# Passo :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Passo :
 
-### Analyzing the Bundle Size
+# Passo :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Passo :
 
-### Making a Progressive Web App
+# Passo :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Passo :
 
-### Advanced Configuration
+# Passo :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Passo :
 
-### Deployment
+# Passo :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Passo :
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# calling-system" 
